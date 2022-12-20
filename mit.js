@@ -4,6 +4,7 @@ var mit = {
     mascot: "robot",
     founded: 1861,
     motto: 'Mens',
+    added: 'this'
 };
 
 console.log("test");
